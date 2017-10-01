@@ -1,6 +1,6 @@
-# Question 1
+# Question 1 and 2
 
-This is a simple example program for SpiderGap
+This are two simple example programs for SpiderGap
 
 ## Running the programs
 question1: move to question1 folder and run 'run.js' via the command ``node run.js``
