@@ -11,8 +11,7 @@ Afterwards open your browser and navigate to http://localhost:8888/
 
 
 ## Running the tests
-
-(No 3rd party library is used for tests.)
+Please install mocha https://mochajs.org/ to run the tests.
 
 Run the tests in the tests folder via the command 
 ``mocha question1-spec.js`` in question1 folder 
